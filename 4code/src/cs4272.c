@@ -48,7 +48,7 @@
 
 #define SLAVE_ADDRESS 0x20
 
-static uint8_t x4count = 0;
+static __IO uint8_t x4count = 0;
 uint16_t sound_buffer[SOUND_BUFFER_SIZE];
 
 void cs4272_start();
@@ -65,6 +65,8 @@ void init_I2C(void)
     //deinit i2c for bootloader
     I2C_Cmd(CS_I2C, DISABLE);
     I2C_DeInit(CS_I2C);
+
+    DelayMs(2);
 
     GPIO_InitStruct.GPIO_Pin = GPIO_Pin_10 | GPIO_Pin_11;
     GPIO_InitStruct.GPIO_Mode = GPIO_Mode_AF;			// set pins to alternate function
