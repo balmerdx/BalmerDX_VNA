@@ -1,0 +1,9 @@
+/home/balmer/opt/gcc-arm-none-eabi-7-2018-q2-update/arm-none-eabi/include
+../std_lib/CMSIS/ST/STM32F4xx/Include
+../std_lib/STM32F4xx_StdPeriph_Driver/inc
+../std_lib/CMSIS/Include
+../std_lib/CMSIS/Device/ST/STM32F4xx/Include
+
+src
+../4code/src
+../shared_code

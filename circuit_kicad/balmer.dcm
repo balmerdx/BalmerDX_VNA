@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EL5166
+D Op Amp in SOT23-6 package
+K op amp amplifier operational
+$ENDCMP
+#
+$CMP JACK_TRS_5PINS
+D audio jack TRS 6 pins
+K audio jack connector TRS
+$ENDCMP
+#
+$CMP M25P16
+D SPI Flash
+$ENDCMP
+#
+$CMP SRD-05VDC-SL-C
+D 10 A 25 V
+K Single Pole Relay
+$ENDCMP
+#
+$CMP STM32L053R8T6
+D Core: ARM Cortex-M0 Package: LQFP64 Flash: 64KB Ram: 8KB Frequency: 48MHz Voltage: 2..3.6V IO-pins: 55
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00039193.pdf
+$ENDCMP
+#
+#End Doc Library

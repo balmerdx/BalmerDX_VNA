@@ -1,0 +1,9 @@
+#pragma once
+typedef enum JOB_STATE
+{
+    JOB_NONE = 0,
+    JOB_WAIT_BEFORE_SAMPLING = 1,
+    JOB_SAMPLING = 2,
+    JOB_CALCULATING = 3,
+    JOB_CALCULATING_COMPLETE = 4,
+} JOB_STATE;

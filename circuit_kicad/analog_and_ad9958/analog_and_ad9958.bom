@@ -1,0 +1,74 @@
+Resistors:
+     510 2
+     33 7
+     3K9 6
+     52 4
+     22k 1
+     12k 1
+     82 3
+     270 1
+     160 1
+     inf 4
+     27k 6
+     68k 2
+     470 1
+     49.9 6
+     330k 4
+     2k 1
+     18 1
+     15k 1
+     10k 1
+     x4 3k 1
+     x4 33 1
+     5k1 2
+     360 8
+     150 1
+     68 2
+     100 2
+Capacitors:
+     33u 2
+     4.7p 4
+     47u 10V 2
+     27p 4
+     22p 4
+     33p 4
+     1n 1
+     680p 1
+     22n 6
+     10u 4
+     220u 3
+     100n 40
+     18p 4
+     100p 3
+     1u 12
+Inductors:
+     22nH 4
+     39nH 4
+     100Z 5
+     100u 1
+ICs:
+     TS462 3
+     25MHz 1
+     HT7333 1
+     LM2663 1
+     CP2102 1
+     ADG736 3
+     AD9958 1
+     SG053-SZ 1
+     LM7905CT 1
+     EL5166 2
+     TPS79318 2
+     LM7805CT 1
+     SA612A 3
+Misc detail:
+     RF_DDS 1
+     TX 1
+     +9V 1
+     SMA 2
+     +3V3 1
+     DATA 1
+     CONN_RF 1
+     USB 1
+     UART 1
+     RX 1
+     LO_DDS 1

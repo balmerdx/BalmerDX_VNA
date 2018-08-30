@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/connect.png</file>
+        <file>icons/disconnect.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/file_send.png</file>
+        <file>icons/connect_status.png</file>
+        <file>icons/disconnect_status.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/green_orb.png</file>
+        <file>icons/red_orb.png</file>
+        <file>icons/blue_play.png</file>
+        <file>icons/blue_stop.png</file>
+        <file>icons/save.png</file>
+        <file>icons/ln_x.png</file>
+        <file>icons/ln_y.png</file>
+        <file>icons/fileopen.png</file>
+    </qresource>
+</RCC>

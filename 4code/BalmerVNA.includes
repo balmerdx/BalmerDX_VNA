@@ -1,0 +1,14 @@
+/usr/lib/arm-none-eabi/include
+../std_lib/CMSIS/ST/STM32F4xx/Include
+../std_lib/STM32F4xx_StdPeriph_Driver/inc
+../std_lib/CMSIS/Include
+../std_lib/CMSIS/Device/ST/STM32F4xx/Include
+inc
+lib/USB_OTG/inc
+lib/Conf
+lib/USB_Device/Core/inc
+lib/USB_Device/Class/cdc/inc
+
+src
+src/ili
+../shared_code
